@@ -1,0 +1,52 @@
+Variable Naming Rules
+
+Start with a Letter or Underscore:
+=================================
+     Variable names must begin with a letter (a-z, A-Z) or an underscore (_). They cannot start with a number.
+
+Example:
+=======
+num_1 = 10
+_num = 20
+
+#invalid
+1num = 40
+
+Case Sensitivity:
+================= 
+    Variable names are case-sensitive. 
+    This means var, Var, and VAR are considered different variables.
+
+Example:
+========
+var = 10
+Var = 20
+VAR = 30
+
+No Reserved Keywords: Variable names cannot be the same as Python's reserved keywords (e.g., False, class, return, try, True, None, etc.).
+
+Example:
+========
+
+class = 10  # Invalid
+return = 20  # Invalid
+
+No Explicit Declaration Needed: 
+==============================
+
+In Python, variables are created when they are first assigned a value. 
+You do not need to declare their type explicitly. 
+
+Examples:
+=======
+x = 10      # Integer
+y = "Hello" # String
+z = 3.14    # Float
+
+Dynamic Typing: 
+=============
+Python is dynamically typed, which means you can change the type of a variable by assigning a new value of a different type. 
+
+x = 10      # x is an integer
+x = "Hello" # Now x is a string
+
