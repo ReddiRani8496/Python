@@ -1,0 +1,22 @@
+Single line comments:
+=====================
+# is used to indicate that the comment is single line
+# This is a single line comment.
+
+
+Multi line comments:
+===================
+# is used for multiple lines to indicate multi line comments.
+
+Second approach for multi line comments:
+=======================================
+
+Using string literals
+
+"""
+  comments 
+  comments
+  comments
+"""
+
+the above lines won't execute in code, so it is treated as multi line comments.

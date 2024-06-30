@@ -1,0 +1,55 @@
+Python:
+=======
+Python is a popular programming language.
+Python is a pocedure oriented programming language, object oriented programming language, 
+scripting language, and functional programming language.
+
+Difference between Python and Java
+==================================
+
+                Python                                                       Java
+Python has generally fewer lines of code.                         Java has long lines of code.
+
+Django and Flask are the popluar frameworks.                     Spring, SpringBoot, Hibernate, Servlete etc are frameworks.
+
+The syntax is easy to remember almost similar                    The syntax is complex as it throws errors if you miss semicolons or curly braces.
+to human language.
+
+Python is slower since it uses an interpreter                    Java is faster in speed as compared to python.
+and also determines the data type at run time.
+
+
+
+Difference between Scripting language and programming language:
+==============================================================
+
+
+
+Scripting Languages:
+
+    Typically interpreted, meaning the code is executed line-by-line at runtime by an interpreter.
+    Examples include Python, JavaScript, and Ruby.
+    Allows for quick testing and iteration of code.
+    Often used for automating tasks, writing small programs, or adding functionality to other software.
+    Common in web development, system administration, and rapid prototyping.
+    Examples: JavaScript for client-side web scripting, Python for automation scripts.
+
+
+
+Programming Languages:
+
+    Generally compiled, meaning the code is translated into machine code by a compiler before execution.
+    Examples include C, C++, and Java.
+    The compiled code is usually optimized for performance.
+    Used for building large-scale applications, system software, and performance-critical tasks.
+    Suitable for creating standalone applications and complex systems.
+    Examples: C++ for game development, Java for enterprise applications.
+
+
+Python is used for:
+===================
+
+web development (server-side),
+software development,
+mathematics,
+system scripting.
